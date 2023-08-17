@@ -4,4 +4,4 @@ Part 1: Implemented a corner detector and feature tracker to track features in s
 
 Part 2: Wrote a function to align 2 sets of points using global image transformation. 
 
-Part 3: 
+Part 3: Lowe style object instance recognition
